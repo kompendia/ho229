@@ -1,0 +1,104 @@
+
+
+DA42 Diamond Aircraft Industries
+X-Plane ACF models by Uwe F. Reitter / www.RTTdesign.eu
+
+
+LIMITATIONS:
+The flight displays have no Garmin G900X functionalities.
+But the ACF cockpit tries to show an authentic basic garmin plot.
+Future versions of the ACF will show these more realistic by intense plugin programming.
+
+3D cockpit:
+To look around in the animated 3D cockpit set such joystick buttons,
+or
+use STRG-period to activate the 3D cockpit and use the arrow keys.
+
+EXTERNAL CAMERAS: (plug-in)
+Use RTTkey to parse through them. Zoom:arrow keys / Direction:mouse / Default view: mouse re-center.
+Exit camera views by activating any regular X-plane view.
+If a turret cam is present, the view will alter to night google automatically if it is dark.
+
+CUSTOM PAYLOADS:
+The plug-in automatically sets the payload to suit the displayed number of persons of the 3D cockpit.
+Additional payload by setting weights-balance of X-plane (resutlts in weight exactly at the center of gravity)
+OR (prefered) you can distribute mass by placing weights and luggage "weapons", leaving the payload slider untouched.
+(This leads to a more realistic behavior regarding stall and inertia of masses)
+
+
+VARIANTS:
+
+DA42 Centurion 2.0 Turbodiesel	135hp
+
+DA42 Lycoming IO-360-M1A		180hp
+
+DA42 Multi Purpose Platform	Nose section for mounting different turret cams
+				Laser scanner belly pod can be mounted as a X-plane "weapon".
+				!!! The belly pod geometry "weapon" is weight-less. A desired weight must be mounted additionally.
+
+DA42 Opale			Nose section with a tightly integrated surveillance cam.
+				Laser scanner belly pod can be mounted as a X-plane "weapon".
+				!!! The belly pod geometry "weapon" is weight-less. A desired weight must be mounted additionally.
+
+TAKE OFF:
+Activate take-off elevator trim by such joystick button or set manually to about 12-15 percent or 1.5 - 2.0 DEG.
+
+Take-off speed is 75 KIAS flap det 1
+
+LANDING:
+
+Approach speed is 100-120 KIAS flap det 1
+
+Touch-down speed is 65 KIAS flap det 2
+
+
+PERFORMANCE: (DA42 Centurion 2.0 Turbodiesel)
+
+Climb sea level at MTOW		5,3 m/s	1.052 fpm
+
+Climb in 10.000 ft at MTOW		4,4 m/s	  840 fpm
+
+Service ceiling			5.486 m	18.000 ft
+
+Never exeed velocity		359 km/h IAS	194 kts IAS
+
+Cruising @ 50% in 18.000 ft		250 km/h TAS	135 kts TAS
+				27,2 lt/h		7,2 US gal/hr
+
+Cruising @ 90% in 10.000 ft		302 km/h TAS	163 kts TAS
+				54,5 lt/h		14,4 US gal/hr
+
+Cruising @ 60% in 10.000 ft		256 km/h TAS	138 kts TAS
+				33,3 lt/h		8,8 US gal/hr
+
+
+Range @ 60% in 10.000 ft		1.577 km/2.222 km	852 nm/1.200 nm
+Standard/Long Range
+
+
+DIMENSIONS:
+
+Length 		8,56 m		28 ft 1 in
+
+Wingspan 	13,42 m		44 ft
+
+Height 		2,49 m		8 ft 2 in
+
+Wing Area 	16,29 m²		175,3 sq ft
+
+
+WEIGHTS: (DA42 Centurion 2.0 Turbodiesel)
+
+Seats			4
+
+Empty 			1.272 kg		2.804 lb
+
+Max Takeoff MTOW 	1.785 kg		3.935 lb
+
+Payload			513 kg		1.131 lb
+
+Fuel Capacity		197 lt/301 lt	52 US gal/79 US gal
+standard/long range
+
+Fuel			Jet A1/Diesel
+

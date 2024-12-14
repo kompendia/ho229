@@ -1,0 +1,89 @@
+
+Lockheed P-38 ACFs for XPlane flight simulator
+by Uwe Reitter
+
+
+GENERAL (for realistic handling of the P-38J) :
+
+	No flaps for a normal take-off
+
+	Take-off trim is 3 degrees (you might set the take-off-trim button on joystick)
+
+	Lift off speed clean is 100 MPH
+
+	Control the constant RPM prop by blue sliders or better by a joystick/throttle slider
+	- take-off or dogfight at 3,000 RPM
+	- climbing, cruising or high-speed at 2,600 RPM.
+
+	Tighten a narrow turn by using flaps det 1. Raise flaps again for accelerating
+
+	Drop external loads to perform dogfight or low speed maneuvers
+
+Like the original P-38 the ACF has only very little snap roll tendency at high G turns.
+This snap rolling can easyly be controlled by the automatic outer flaps aileron-boost.
+(the outer flap moves 12 DEG down to support the ailerons)
+
+
+FIGHTER LOADS:
+
+X-Plane guesses a payload weight right between empty weight and gross weight.
+What makes sense on civil aircraft, but...
+...this means for a P-38 without any outboard load a sensless additional 3,000 lbs of payload.
+
+This messes up the fine close to original behavior and performance of the model.
+i.e the clean P-38 YIPPEE will get a strong tendency for doing snap rolls and shows false performance.
+
+So please set after loading the plane in the menu- Settings - Weight & Balance & Fuel - the payload weight
+to reasonable 200 - 400 lbs for a pilot plus equippment.
+
+OR JUST INSTALL MY ENCLOSED PLUGIN what does this automatically
+for every of my fighters besides other refinements in handling my planes.
+It has no negative side effects to any other X-Plane usage. See the install TXT for a brief description.
+
+
+P-38 FLOAT PLANE:
+
+	For default load take-off, a wave height of 1.0 ft is maximum
+
+	Flaps 30 DEG and accelerate against the wind AND wave direction
+	(see weather menu atmosphere and sea)
+
+	Accelerate slowly and pull the stick to stabilize pitch while crossing the waves
+	When the plane begins to cross through the waves without pitching up/down (about 70 MPH)
+	give full throttle and ease back the stick slowly. The plane soon then reaches lift off speed of 110 MPH
+
+	Load bombs and/or fuel for taking off only at weaker waves
+
+	For sea landing the touch down speed is higher than for landing on a runway.
+	It has to be high enough to come from flight smooth to kind of a speed boat glide.
+	If you try to land to slow, you will drop in the water and bounce up again.
+
+Unlike the real project the floats can not be dropped in XPlane. The ACF model uses misc bodys because
+drop tanks do not produce lift in the water. Never the less the floats add 1,800 lbs fuel each.
+
+
+FLIGHT MANAGING COMPUTER FMS and AUTOPILOT:
+
+Complete autopilot and GPS is only available in the 2D panel.
+
+Autopilot (not WW-2 authentic) VVI and Speed(ATHR) setting in the related instrument
+
+The wooden clip-board is a disguised FMS and FUEL calculator.
+
+If you decide to do (non WW-2 authentic) GPS and autopilot operations
+set the HSI compass source to GPS and press on the FMS clipboard INIT then APT (or VOR or NDB)
+and input the ICAO-code of your next waypoint or destination airport.
+
+You can also input a desired flight level for each waypoint.
+Append waypoints by pressing next and repeat the input procedure.
+
+When navigation source is set to GPS the autopilot LOC will follow the route,
+BC will perform a back-course and VNAV will perform the inputted flight levels,
+after you steered your plane manually to the approximate course.
+
+With LD and SA you can save and load your FMS inputs.
+
+
+Feel free to mail any comment or criticizm! x-plane@reitter.de
+
+

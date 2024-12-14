@@ -1,0 +1,18 @@
+xplane_certified=860
+author=Uwe F. Reitter
+author_web=http://www.reitter.de/x-plane/
+release=100
+release_date=05 28 2007
+
+plane_constructor=Lockheed
+plane_type=P-38J
+plane_full_name=P-38J Lightning
+plane_compagny=Lockheed
+
+cruise_altitude=19500
+cruise_speed=250
+climb_rate=2500
+maximum_range=955
+fuel_max_onboard=416
+fuel_max_consumption_hour=162
+

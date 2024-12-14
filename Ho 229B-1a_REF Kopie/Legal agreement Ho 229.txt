@@ -1,0 +1,10 @@
+
+Horten Ho 229 ACF for X-Plane flight simulator
+
+Copyright 2010 by Uwe. F. Reitter
+
+Legal agreement :
+-----------------
+By use of the enclosed files you agree not to use these
+data and parameters or parts of it for commercial benefit
+without permission of its authors, also mentioned in the .acf file.

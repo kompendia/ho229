@@ -1,0 +1,159 @@
+
+
+LOCKHEED P-38J LIGHTNING X-Plane Models by RTT Uwe Reitter
+
+
+Enclosed X-Plane Variants:
+			P-38 Floatplane
+			P-38J Joltin Josie
+			P-38J Porky II
+			P-38J 5,000th fire-engine red
+
+
+Type: 			Single Seat Long Range Fighter
+Origin: 			Lockheed
+Models: 			XP-38 to P-38M, F-4 and F-5
+First Flight: 		January 27 1939 (XP-38)
+Service Delivery: 		June 8, 1941 (USAAC)
+Combat Debut: 		August 1942
+Final Delivery: 		September 1945
+Total Produced: 		9,942
+Cost:			$115.000 (1945)
+
+Wingspan:		15.85 meters	52 feet
+Wing Area:		30.42 meters^2	327.5 sq_feet
+Length*:			11.53 meters	37 feet 10 inches
+Height:			2.99 meters	9 feet 10 inches
+
+*F-5G, P-38M and certain "droop-snoot" conversions fractionally longer
+
+Empty Weight:		5,797 kg		12,780 lbs
+Max Loaded Weight:	9,798 kg		21,600 lbs
+
+Maximum Speed:           	676 kmh		420 mph/ 365 kt
+
+Cruise Speed:		466 kmh		290 mph/ 251 kt
+
+Service Ceiling:         	13,410 meters       44,000 feet
+
+Range,
+No Drop Tanks
+			764 km		475 mi / 413 nm 		at 339 mph at 25,000 feet
+			1,287 km		800 mi / 695 nm 		at 285 mph at 10,000 feet
+			1,891 km		1,175 mi / 1,022 nm	at 175 mph at 10,000 feet
+Range,
+With Max. Fuel
+			3,627 km		2,260 mi / 1,965 nm	at 186 mph at 10,000 feet
+
+Avionics:		SCR-274N radio
+
+Armament:
+		1x Hispano M2(C) 20 mm cannon with 150 rounds
+		4x Colt-Browning MG53-2 0.50 in (12.7 mm) machine guns with 500 rounds per gun
+		4x M10 three-tube 4.5 in (112 mm) rocket launchers or:
+		10x 5 in (127 mm) HVAR's (High Velocity Aircraft Rocket) and/or:
+		either 2x 2,000 lb (908 kg) or 2x 1,000 lb (454 kg), 4x 500 lb (227 kg) or 4x 250 lb (114 kg) bombs
+
+Powerplant:
+		Allison V-1710 Liquid Cooled V12
+
+ (All P-38 engines handed with opposite propeller rotation, hence pairs of engine sub-type numbers)
+
+		XP-38: 1,090hp V-1710-11/15 (C9)¹
+		YP-38: 1,150hp V-1710-27/29 (F2)
+		P-38E: 1,225hp V-1710-49/52
+		P-38F: 1,225hp V-1710-49/53 (F5)
+		P-38G: 1,325hp V-1710-51/55
+		P-38H to P-38J: 1,425hp V-1710-89/91
+		P-38M: 1,600hp V-1710-111/113
+
+ ¹Inwardly rotating airscrews.
+
+
+Fluids:
+Fuel Capacity: Internal
+			Early model through H: 306 U.S. Gallons
+			P-38L & J: 416 U.S. Gallons
+
+Fuel Capacity: External
+			Typical: (2) 165 U.S. gallon tanks
+			Ferry: (2) 300 U.S.gallon tanks.
+
+Fuel Grade: 		115/145 in the 8th Air Force
+
+Fuel Specifications:	AN-7-28, Grde 100/130 or AN-7-26, Grade 91
+
+Engine Oil Capacity:
+			13 U.S. Gallons¹
+			Type: AN-VV-O-446, Grade 1120²
+      ¹ Each Engine
+       ² AN-VV-O-446, Grade 1100A for cold weather operations
+
+Supercharger Oil Type:	AN-VV-446, Grade 1065
+
+Engine Coolant Type:	AN-E-2 (Ethylene Glycol-inhibited w. NaMBT)
+
+Hydraulic Fluid Type:	AN-VV-O-366
+
+Other systems:		Oxygen System Low pressure: 400-450 psi
+
+
+
+OTHER VARIANTS:
+
+P-38F First model to incorporate in wing pylons and could accomodate 1,000lbs of bombs, torpedoes, tanks or other stores.
+P-38L: This model had a bomb load of 4,000 lbs of bombs or ten rockets.
+This model was often used in level flight bombing with formations being led by a Droop-Snoot conversion.
+
+Weights:
+Empty:
+		P-38F-15-LO: 12,264 lbs.
+		P-38G-1-LO: 12,200 lbs.
+		P-38J-25-LO: 12,780 lbs.
+Loaded:
+		P-38F-15-LO: 15,900 lbs.
+		P-38G-1-LO: 15,800 lbs.
+		P-38J-25-LO: 17,500 lbs.
+Maximum:
+		YP-38: 14,348 lbs. (6,508kg)
+		P-38D: 15,500 lbs.
+		P-38E: 15,482 lbs.
+		P-38F-15-LO: 19,900 lbs.
+		P-38G-1-LO: 19,800 lbs.
+		P-38H: 20,300 lbs.
+		P-38J-25-LO: 21,600 lbs.
+		P-38L & M: 21,600 lbs. (9798 kg)
+Performance:
+Maximum Speed:
+		YP-38: 405 mph at 20,000 ft.
+		P-38F-15-LO: 347 mph at 5,000 ft.
+		P-38F-15-LO: 351 mph at 10,000 ft.
+		P-38F-15-LO: 395 mph at 25,000 ft.
+		P-38G-1-LO: 345 mph at 5,000 ft.
+		P-38G-1-LO: 360 mph at 10,000 ft.
+		P-38G-1-LO: 400 mph at 25,000 ft.
+		P-38J-25-LO: 360 mph at 5,000 ft.
+		P-38J-25-LO: 390 mph at 15,000 ft.
+		P-38J-25-LO: 414 mph at 25,000 ft.
+
+Initial climb: About 2,850 ft. (870m) per minute
+
+Time To Climb:
+		YP-38: 6 minutes to 20,000 ft.
+		P-38F-15-LO: 4 minutes to 10,000 ft.
+		P-38F-15-LO: 8.8 minutes to 20,000 ft.
+		P-38G-1-LO: 3.7 minutes to 10,000 ft.
+		P-38FG-1-LO: 8.5 minutes to 20,000 ft.
+		P-38J-25-LO: 2 minutes to 5,000 ft.
+		P-38J-25-LO: 5 minutes to 15,000 ft.
+		P-38J-25-LO: 7 minutes to 20,000 ft.
+Service Ceiling:
+		P-38F-15-LO & P-38G-1-LO: 39,000 ft.
+		P-38H, J, L: 44,000 ft.
+Range: Internal Fuel
+		P-38F-15-LO: 400 miles at 333 mph at 25,000 ft.
+		P-38F-15-LO: 900 miles at 219 mph at 10,000 ft.
+		P-38G-1-LO: 350 miles at 333 mph at 25,000 ft.
+		P-38G-1-LO: 850 miles at 219 mph at 10,000 ft.
+
+

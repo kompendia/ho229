@@ -1,0 +1,10 @@
+
+Lockheed P-38 ACF for XPlane flight simulator
+
+Copyright 2007 by Uwe. F. Reitter RTTdesign
+
+Legal agreement :
+-----------------
+By use of the enclosed files you agree not to use these
+data and parameters or parts of it for commercial benefit or public use
+without permission of its author, also mentioned in the .acf file.

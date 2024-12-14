@@ -1,0 +1,64 @@
+
+
+
+Horten Ho 229
+X-Plane ACF model by Uwe F. Reitter
+
+
+TAKE OFF:	Pull stick gently while speeding up to keep rear wheels grounded
+		take-off speed 200 kmh
+		
+
+LANDING:	Landing speed clean 150 kmh, flap det 1 for approach
+		pull stick gently after touch down
+
+HISTORY:	First flight V2 prototype 2 Februar 1944
+
+CREW:		(229A-1)	1 pilot
+		(229B-1a)	1 pilot + 1 Instructor
+
+PERFORMANCE OF PROTOTYPE: (The fighter-bomber deviates)
+Top Speed
+(at Sea Level)	590 mph (950 km/h)
+(max achieved)	607 mph (977 km/h)
+Cruise Speed:	460 mph (740 km/h)
+
+PERFORMANCE OF PROTOTYPE: (The fighter-bomber deviates)
+Stall Speed	150 km/h
+Landing Speed 	130 km/h
+Top Speed
+(at Sea Level)	590 mph (950 km/h)
+(max achieved)	607 mph (977 km/h)
+Cruise Speed:	460 mph (740 km/h)
+
+Initial Climb Rate: 	4,200 ft (1,300 m) / min
+Service Ceiling 	52,490 ft (16,000 m) calculated, Jumo003B flame out at 39,000 ft
+Range 			623 mi combat; 1,185 mi ferry (1,000 km / 1,900 km)
+
+DIMENSIONS:
+Length 		24 ft 6 in (7.47 m)
+Wingspan 	54 ft 8 in (16.65 m)
+Height 		9 ft 1 in (2.77 m)
+Wing Area 	565 ft^2 (52.5 m^2)
+
+WEIGHTS:
+Empty 		10,580 lb (4,800 kg)
+Typical Load 	15,238 lb (6,912 kg)
+Max Takeoff 	19,800 lb (9,000 kg)
+Fuel Capacity 	internal 475 gal (1,800 L)
+Max Payload	at least 2,200 lb (1,000 kg)
+
+
+PROPULSION:
+Powerplant 	prototype two Junkers Jumo 004B-1/-2/-3 axial turbojets >ACF has Jumo 004C<
+Thrust 		prototype 3,968 lb (17.7 kN) >ACF has 4496 lb (20 kN)<
+
+ARMAMENT:
+Gun		(229A-1) two 30-mm MK 103 cannons
+Bomb		(229A-2) up to two 2,200 lb (1000 kg) bombs
+Other		(229A-2) Wgr21, R4M Rockets and JRX4, Hs298, R100BS missiles
+
+RADIO EQUIPMENT:
+Fu G 16 ZY (UKW-Voice transmission),
+Fu G 25a (Ground/Board Friend/Foe identification).
+

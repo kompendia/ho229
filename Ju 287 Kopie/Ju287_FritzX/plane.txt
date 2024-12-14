@@ -1,0 +1,18 @@
+xplane_certified=840
+author=Uwe F. Reitter
+author_web=http://www.reitter.de/x-plane/
+release=100
+release_date=08 15 2006
+
+plane_constructor=Junkers
+plane_type=Ju287
+plane_full_name=Ju287
+plane_compagny=Drittes Reich
+
+cruise_altitude=19500
+cruise_speed=460
+climb_rate=2000
+maximum_range=1211
+fuel_max_onboard=1743
+fuel_max_consumption_hour=662
+

@@ -1,0 +1,23 @@
+xplane_certified=962
+author=Uwe F. Reitter
+author_web=http://www.x-planer.de/
+release=301
+release_date=21 11 2010
+
+plane_constructor=Horten Bros. / Gothaer Waggonfabrik
+plane_type=Ho 229A-2
+plane_full_name=Horten Ho 229A-2 Trainer
+plane_compagny=Drittes Reich
+
+max_seats=2
+
+cruise_altitude=32800
+cruise_speed=393
+climb_rate=2500
+climb_speed=260
+descent_rate=5000
+descent_speed=400
+maximum_range=1000
+fuel_max_onboard=660
+fuel_max_consumption_hour=500
+

@@ -1,0 +1,81 @@
+
+Junkers Ju287 projected medium german jet bomber
+Operational aircraft bases on the V3 prototype specifications.
+
+X-Plane ACF model by Uwe F. Reitter / Sulzfeld / Germany
+
+VERY BASIC POH:
+
+Always run up the engines especially slowly up to 85% RPM. Otherwise the
+original engines may overheat and be weakened by cavitation in the compressor stage.
+So in any flight situation where you can expect an immediate need of full thrust
+never decrease the RPM smaller than 85%. (no need in the simulator)
+
+TAKE OFF:
+Hold the aircraft stationary until 85% RPM. Then release the brakes and give full throttle.
+Directional corrections should only be made with the brakes. (no need in the simulator)
+Rotate up at 260 - 270 kmh (fully laden, interceptor)
+After becoming airborne, immediately push forward slightly to gain the optimum climbing speed,
+never more slowly climbing than 475 kmh true at 0 m -2000 m altitude .
+
+LANDING:
+Retract gun sight with the button ZG (Zielgerät).
+The best approach speed is 260 - 270 kmh. Shortly before reaching the airfield boundary,
+decrease the glide angle a little and reduce the speed to about 230 kmh. Then flatten out
+and touch down normally at 200 kmh. After touch-down, allow the aircraft to tip forward slowly.
+Only apply brakes when the nose wheel has touched the ground.
+
+
+Technical data of the Ju287 V3
+
+HISTORY:
+First Flight	V1  16 August 1944
+		V2  1947 in the USSR
+		V3  never built
+
+Take Off speed gross:	260 km/h
+Landing speed empty:	230 km/h
+
+
+CREW:		1 pilot, 1 bomb contactor, 1 for defence weapons
+
+PERFORMANCE:
+Max Level Speed:	534 mph (860 km/h) at 19,685 ft (6,000 m)
+		512 mph (820 km/h) at sea level
+Cruise Speed:	460 mph (740 km/h)
+Initial Climb Rate: 	3,935 ft (1,200 m) / min
+Service Ceiling 	37,565 ft (11,450 m)
+Range 		1,053 nm (1,211 miles 1,950 km)
+
+DIMENSIONS:
+Length 		59.88 ft (18.25 m)
+Wingspan 	63.65 ft (19.4 m)
+Height 		18.4 ft (5.6 m)
+Wing Area 	736.25 ft2 (68.4 m2)
+
+WEIGHTS:
+Empty 		26,852 lb (12,180 kg)
+Typical Load 	17,637 lb (8,000 kg)
+Max Takeoff 	50,221.3 lb (22,780 kg)
+Fuel Capacity 	internal 1,743 gal (6,600 L)
+Max Payload	at least 23,369 lb (10,600 kg)
+
+PROPULSION:
+Powerplant 	two Junkers Jumo 004B-1/-2/-3 axial turbojets
+Thrust 		11,900 lb (52.934 kN)
+
+ARMAMENT:
+Gun 		2x 2 MG131 turrets
+
+Bomb 		up to 17,637 lb (8,000 kg)
+
+RADIO EQUIPMENT:
+Fu G 16 ZY (UKW-Voice transmission),
+Fu G 25a (Ground/Board Friend/Foe identification).
+
+
+
+
+
+
+

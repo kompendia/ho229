@@ -1,0 +1,18 @@
+xplane_certified=840
+author=Uwe F. Reitter
+author_web=http://www.reitter.de/x-plane/
+release=100
+release_date=04 24 2006
+
+plane_constructor=Messerschmitt
+plane_type=Me262
+plane_full_name=Me262 A-1a
+plane_compagny=Drittes Reich
+
+cruise_altitude=19500
+cruise_speed=400
+climb_rate=3000
+maximum_range=1000
+fuel_max_onboard=724
+fuel_max_consumption_hour=326
+
